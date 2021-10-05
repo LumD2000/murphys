@@ -1,0 +1,16 @@
+.ui.topmenu.borderless.menu {
+  box-shadow: none;
+  border: none;
+}
+.bar-bg{
+  background: url('http://courses.ics.hawaii.edu/ics314f20/morea/ui-frameworks/murphys-front.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+  color: white;
+  padding-top: 200px;
+}
+
+.eight.wide.column.bg.text {
+  padding-top: 100px;
+  font-size: 18px;
+}
